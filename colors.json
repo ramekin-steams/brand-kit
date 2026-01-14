@@ -1,0 +1,14 @@
+{
+  "primary": {
+    "name": "Brand Blue",
+    "hex": "#0052FF"
+  },
+  "secondary": {
+    "name": "Dark Gray",
+    "hex": "#1A1A1A"
+  },
+  "accent": {
+    "name": "Light Gray",
+    "hex": "#F2F2F2"
+  }
+}
